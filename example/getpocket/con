@@ -1,0 +1,6 @@
+pocket:
+    url: https://getpocket.com
+	version: v3
+
+oauth:
+    url: oauth/request
